@@ -16,6 +16,7 @@ REM Make changes (replace with actual commands)
 python -u "D:\Coding\Python\generateText.py"
 
 REM Stage changes
+cls
 git add .
 
 REM Commit changes with a default message
