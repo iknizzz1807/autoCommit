@@ -1,1 +1,1 @@
-Auto Commit
+Git Beautifier
